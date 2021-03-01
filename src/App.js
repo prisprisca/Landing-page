@@ -6,7 +6,7 @@ import Header from './Header'
 import Footer from './Footer'
 import Blog from "./Blog";
 import Services from './Services'
-import MyMain from "./MyMain";
+// import MyMain from "./MyMain";
 
 
 
@@ -30,7 +30,7 @@ function App() {
 
          <Route path="/repo">
            <Header />
-           <MyMain />
+           {/* <MyMain /> */}
            <Footer />
 
          </Route>
