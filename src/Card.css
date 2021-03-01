@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: row;
+     /* margin-top: ;  */
+    padding: 2rem;
+    justify-content: center;
+}
+
+.my-text{
+    font-family: 'Times New Roman', Times, serif;
+}

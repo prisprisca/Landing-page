@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(129, 59, 9);
+    color: white;
+    height: 5rem;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+  z-index: 100;
+  line-height: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.header_link{
+  color: white;
+  text-decoration: none;
+}
+
+.header-services{
+  margin-top:-2.4rem ;
+  margin-left: 60rem;
+}
+
+.header-blog{
+  margin-top: -2.4rem;
+  margin-left: -60rem;
+}
+.header > p{
+    color: rgb(167, 157, 157);
+}
